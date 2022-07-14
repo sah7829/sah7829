@@ -21,6 +21,6 @@ I primarily use this to transfer files between my laptop and personal computer (
 You may notice a few repositories with urls, I create new Github accounts in order to get a more personalized url depending on what I'm working on (don't tell them 😝)
 I also use Gitlab in a few of my Software Engineering classes.
 
-You can reach me at: Skyler0herman@gmail.com. I'm always looking for opportunities to grow as a Software Engineer and expand my knowledge. And be sure to check out my website @ skylerherman.com !
+You can reach me at: Skyler0herman@gmail.com. I'm always looking for opportunities to grow as a Software Engineer and expand my knowledge. And be sure to check out my website @ https://skylerherman.com !
 
 ~ Skyler Herman (He/Him)
