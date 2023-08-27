@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Welcome to my Github!
 
-I'm a Fourth Year at RIT majoring in Software Engineering. While programming and working with software are definitely some of my passions - I balance myself out by doing Taekwondo, which I am a second degree Black Belt in, and engaging in performing arts such as musical theater and straight plays.
+I'm a Fifth Year at RIT majoring in Software Engineering. While programming and working with software are definitely some of my passions - I balance myself out by doing Taekwondo, which I am a second degree Black Belt in, and engaging in performing arts such as musical theater and straight plays.
 I primarily use this to transfer files between my laptop and personal computer (which are mostly private files) but I also love using Github pages. 
 You may notice a few repositories with urls, I create new Github accounts in order to get a more personalized url depending on what I'm working on (don't tell them 😝)
 I also use Gitlab in a few of my Software Engineering classes.
